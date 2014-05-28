@@ -3,4 +3,4 @@ git-prac
 
 for today
 
-updates yay!
+Let's do updates yay!
