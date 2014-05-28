@@ -1,7 +1,7 @@
 git-prac
 ========
 
-for today's practice
+for today's Practice
 
 
 updates yay!
