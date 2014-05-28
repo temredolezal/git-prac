@@ -1,6 +1,7 @@
 git-prac
 ========
 
-for today
+for today's Practice
+
 
 Let's NOT do updates yay!
